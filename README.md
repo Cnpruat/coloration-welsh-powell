@@ -49,5 +49,5 @@ Ce projet a été réalisé dans le cadre du module de mathématiques discrètes
 ## Contact detail
 pierre.bourrandy@etu.unilim.fr *(ENSIL-ENSCI)*
 
-https://github.com/Cnpruat/puissance4-python *(GitHub)*
+https://github.com/Cnpruat/coloration-welsh-powell *(GitHub)*
 
