@@ -46,7 +46,7 @@ coloration-welsh-powell/
 
 Ce projet a été réalisé dans le cadre du module de mathématiques discrètes de 1ère année de Formation Initiale aux Métiers d'Ingénieurs. 
 
-## Contact detail
+## Contact 
 pierre.bourrandy@etu.unilim.fr *(ENSIL-ENSCI)*
 
 https://github.com/Cnpruat/coloration-welsh-powell *(GitHub)*
